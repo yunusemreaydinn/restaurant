@@ -1,4 +1,4 @@
-live demo: https://emre-bakery.netlify.app/
+live demo -> https://bakerywebsiteexample.netlify.app/
 
 In the project directory, you can run:
 
